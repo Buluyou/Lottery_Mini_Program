@@ -21,7 +21,6 @@ public class PrizePool {
         } catch (IOException e) {
             e.printStackTrace();
         }
-
     }
 
     public PrizePool() {}
