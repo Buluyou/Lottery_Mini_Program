@@ -7,3 +7,4 @@
 7 XXX
 8 EEE
 9 XXX
+7 Forward and we can merge.
